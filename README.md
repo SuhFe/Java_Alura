@@ -1,19 +1,19 @@
-## Getting Started
+![thumbnail-Formação Java (3)](https://user-images.githubusercontent.com/66698429/226652162-77d758f2-3d34-4f6d-bb9b-37b3c00d0759.png)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+# Java: trabalhando com listas e coleções de dados
 
-The workspace contains two folders by default, where:
+Projeto desenvolvido no terceiro curso da formação Java da Alura
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🔨 Objetivos do projeto
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
+- Mergulhar mais profundamente em Java, entendendo a hierarquia de classes e métodos;
+- Aprender a representar uma lista de objetos; 
+- Conhecer os recursos para manipulação dessa lista, como inclusão, exclusão, ordenação;
+- Fazer casting de objetos e identificar o tipo dos mesmo;
+- Construir os objetos já com valores e com diferentes critérios;
+- Avançar nos estudos e entender novos conceitos primordiais para o desenvolvimento de aplicações back-end.
+- 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 # Java_Alura
